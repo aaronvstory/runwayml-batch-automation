@@ -1,0 +1,12 @@
+{
+  "driver_video": "C:\\claude\\faggotRUNWAYS2.0\\assets\\driver_video.mp4",
+  "output_folder": "C:\\iCloudDrive\\F\\Runway output",
+  "api_key": "key_bd089604ad733171ce9bdb91e11ccbd18690542c8519922bfb242bca7db3fb95e3e86ac3fc6c33065c67108988deeede0841ac90050394f46518d0d8c83c97f8",
+  "verbose_logging": true,
+  "duplicate_detection": true,
+  "delay_between_generations": 2.0,
+  "first_run": false,
+  "output_location": "co-located",
+  "image_search_pattern": "genx",
+  "exact_match": false
+}

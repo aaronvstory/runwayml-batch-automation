@@ -1,0 +1,44 @@
+RUNWAYML BATCH AUTOMATION - QUICK START GUIDE
+=============================================
+
+1. FIRST TIME SETUP (5 minutes):
+   - Double-click "Run_RunwayML_Batch.bat" or "RunwayML_Batch_Automation.exe"
+   - Enter your RunwayML API key when prompted
+   - Select a driver video (or press Enter to use default)
+   - Choose an output folder for generated videos
+
+2. PROCESSING IMAGES:
+   - Select Menu Option 4 or 5
+   - Browse to folder containing your images
+   - Confirm to start batch processing
+   - Videos will be generated automatically!
+
+3. KEY FEATURES:
+   - Smart Aspect Ratio: Automatically preserves image dimensions
+   - Pattern Filtering: Process only specific images (e.g., "-selfie")
+   - Expression Control: Adjust facial expressiveness (0.0-2.0)
+   - Multiple Output Modes: Centralized or co-located with source
+
+4. INCLUDED DRIVER VIDEOS:
+   - main_lr.mp4 - Standard facial movements (recommended)
+   - blink.mp4 - Natural blinking motions
+   - doneperfecto.mp4 - Enhanced expressions
+
+5. MENU OPTIONS:
+   [1-3]  - Configuration settings
+   [4-5]  - Start processing
+   [6-7]  - Image filtering and preview
+   [8-12] - Advanced settings
+   [13]   - Aspect ratio mode (Smart/Fixed)
+   [14]   - Expression intensity
+   [15]   - All API parameters
+
+TIPS:
+- Use "Smart" aspect ratio mode (default) for best results
+- Portrait photos will stay portrait, landscape stays landscape
+- Process up to 100+ images in one batch
+- Check logs folder if issues occur
+
+Need help? See README.md for detailed documentation.
+
+Enjoy creating amazing AI-generated videos!
